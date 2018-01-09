@@ -1,0 +1,44 @@
+{
+    "meta": [{
+            "charset": "utf-8"
+        },
+        {
+            "http-equiv": "X-UA-Compatible",
+            "content": "IE=edge"
+        },
+        {
+            "name": "viewport",
+            "content": "width=device-width, initial-scale=1,viewport-fit=cover"
+        },
+        {
+            "name": "author",
+            "content": "Duncan Du"
+        },
+        {
+            "name": "description",
+            "content": "parcel tool build demo"
+        },
+        {
+            "name": "keywords",
+            "content": "parcel,tool build,f2e"
+        }
+    ],
+    "title": "Mini Website Starter",
+    "link": [{
+            "rel": "canonical",
+            "href": "/"
+        },
+        {
+            "rel": "icon",
+            "type": "image/png",
+            "href": "favicon.png"
+        }
+    ],
+    "script": [{
+        "src": "//code.jquery.com/jquery-3.2.1.min.js",
+        "integrity": "sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=",
+        "crossorigin": "anonymous",
+        "rel": "preload",
+        "as": "script"
+    }]
+}

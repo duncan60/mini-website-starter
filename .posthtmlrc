@@ -1,0 +1,13 @@
+{ 
+  "plugins": {
+    "posthtml-doctype": {
+      "doctype": "HTML 5"
+    },
+    "posthtml-head-elements": {
+      "headElements": "./posthtml-head-elements.json"
+    },
+    "posthtml-px2rem":{
+      "rootValue": 16
+    }
+  }
+}
