@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# cache
+.cache/
+
 # Runtime data
 pids
 *.pid
@@ -57,5 +60,4 @@ typings/
 
 # dotenv environment variables file
 .env
-
 

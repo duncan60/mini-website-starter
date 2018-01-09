@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar expression = 'hello world';\nexports.default = \"say: \" + expression + \" !!\";"},"hash":"0231a7fd741371ee5ceb6fe0a829bb41"}
