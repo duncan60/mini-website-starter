@@ -12,6 +12,10 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+.bg {
+    background: $bg-color url('../images/parceljs.jpg') no-repeat center;
+}
+
 .title {
     font-size: 30px;
 }

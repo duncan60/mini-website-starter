@@ -1,6 +1,6 @@
 import 'babel-polyfill';
 import 'normalize.css';
-import '../scss/index.scss';
+import '../assets/scss/index.scss';
 import message from './message';
 
 $(document).ready(() => {
